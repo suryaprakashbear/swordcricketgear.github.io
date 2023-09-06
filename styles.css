@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    background-color: black;
+}
+.coming_soon_banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* 100% of the viewport height */
+    background-color: #000000;
+}
+.coming_soon_banner img{
+    max-width: 100%;
+    max-height: 100%;
+}
